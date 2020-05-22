@@ -3,12 +3,12 @@ entries:
   strapi:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-05-22T15:12:17.497928699+02:00"
+    created: "2020-05-22T16:31:26.140008168+02:00"
     description: The Strapi open-source, headless CMS.
-    digest: 0dbcf2aca4d4781a600a07bd54b3a560f3750aceb9e0bc6291db80b451c1ab36
+    digest: 062e8e54823716ea8e5caee62b7477a5a4e03f3d94cd7d4b1b36c624ebe58011
     name: strapi
     type: application
     urls:
     - https://rfrancotechnologies.github.io/helm-charts/strapi-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-22T15:12:17.496917517+02:00"
+generated: "2020-05-22T16:31:26.138976014+02:00"

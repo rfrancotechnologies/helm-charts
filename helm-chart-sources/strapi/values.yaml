@@ -68,7 +68,7 @@ tolerations: []
 affinity: {}
 
 # Environment variables for your Strapi application
-env:
+env: {}
   # DATABASE_CLIENT: mysql 
   # DATABASE_HOST: localhost
   # ...

@@ -2,6 +2,14 @@
 
 This repository contains Helm charts created by R.Franco Technologies.
 
+## How to Package and Index the Included Helm Charts
+
+```
+cd docs
+helm package ../helm-chart-sources/*
+helm repo index --url https://rfrancotechnologies.github.io/helm-charts/ .
+```
+
 ## Strapi
 
 In order to install the Strapi Helm chart from R.Franco Technologies first you have to add the chart repository to your helm installation:
