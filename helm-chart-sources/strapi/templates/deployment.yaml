@@ -57,7 +57,7 @@ spec:
             - name: {{ $k }}
               valueFrom:
                 secretKeyRef:
-                  name: {{ include "strapi.fullname" . }}
+                  name: {{ include "strapi.fullname" $ }}
                   key: {{ $k }}
             {{- end }}
             {{- range $k, $v := .Values.env }}
