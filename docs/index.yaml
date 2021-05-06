@@ -3,7 +3,16 @@ entries:
   strapi:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: "2020-05-23T11:01:44.181764283+02:00"
+    created: "2021-05-06T13:35:26.104125766+02:00"
+    description: The Strapi open-source, headless CMS.
+    digest: e24e52fa12ba0ec901eb0fefae7c9ed9141be28631c6db5a5ecf461f96be700e
+    name: strapi
+    urls:
+    - https://rfrancotechnologies.github.io/helm-charts/strapi-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v1
+    appVersion: 3.0.0
+    created: "2021-05-06T13:35:26.103283124+02:00"
     description: The Strapi open-source, headless CMS.
     digest: 67df6029c7a0d6746e252788553ef48af2dd43ef544d048954d80596f8753bf5
     name: strapi
@@ -12,7 +21,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2020-05-23T11:01:44.180277871+02:00"
+    created: "2021-05-06T13:35:26.10223282+02:00"
     description: The Strapi open-source, headless CMS.
     digest: f0a340c2ab72c9338a31c15e6a54a62f64268f2d9d2b3bf401eb47de137210e4
     name: strapi
@@ -20,4 +29,4 @@ entries:
     urls:
     - https://rfrancotechnologies.github.io/helm-charts/strapi-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-23T11:01:44.17726895+02:00"
+generated: "2021-05-06T13:35:26.100907058+02:00"
