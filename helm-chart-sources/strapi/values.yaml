@@ -103,3 +103,5 @@ readinessProbe:
   initialDelaySeconds: 0
   periodSeconds: 10
   failureThreshold: 3
+
+strategy: {}
